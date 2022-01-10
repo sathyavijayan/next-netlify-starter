@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Watch this space !" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+           In the meantime, just send me a good ol' <a href="mailto:sathyavijayan@sthaa.com">email</a>.
         </p>
       </main>
 
