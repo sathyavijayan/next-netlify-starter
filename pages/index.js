@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>STHAA Limited</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,8 +16,6 @@ export default function Home() {
            In the meantime, just send me a good ol' <a href="mailto:sathyavijayan@sthaa.com">email</a>.
         </p>
       </main>
-
-      <!-- Footer / -->
     </div>
   )
 }
